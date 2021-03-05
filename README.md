@@ -1,4 +1,6 @@
 ## Windows Key Disabler
+> Download the latest release [here](https://github.com/Bellisario/Windows-Key-Disabler/releases/latest).
+
 A simple app builded with [AutoHotkey](https://www.autohotkey.com/) to disable Windows hotkey.
 
 ### Why use "Windows Key Disabler"?
